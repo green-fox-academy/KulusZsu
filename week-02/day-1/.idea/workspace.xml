@@ -2,41 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="461aa50c-a5cb-4afe-8f1c-bc5a05297803" name="Default Changelist" comment="add OddEven exercise">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/AnimalsAndLegs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/Bmi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/CodingHours.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/Cuboid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/DefineBasicInfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/FavoriteNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/HelloMe.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/HelloOthers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/HelloUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/HelloWorld.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/HumptyDumpty.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/IntroduceYourself.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/MileToKmConverter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/OddEven.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/SecondsInADay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/Swap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/TwoNumbers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day-1/VariableMutation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/day-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/out/production/day-2/AppendAFunc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/out/production/day-2/Doubling.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/out/production/day-2/Factorio.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/out/production/day-2/Greet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/out/production/day-2/HelloWord.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-2/out/production/day-2/Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-2/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -253,7 +220,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540912111072" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540912443204" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
