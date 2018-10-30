@@ -3,7 +3,7 @@
 public class OddEven {
     public static void main(String[] args) {
 
-        int a = 5;
+        int a = 6;
         if (a % 2 == 0) {System.out.println("Odd");}
         if (a % 2 == 1) {System.out.println("Even");}
 
