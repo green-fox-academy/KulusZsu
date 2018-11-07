@@ -15,7 +15,7 @@ public class GoToCenter {
 
 
         for (int i = 0; i < 3; i++) {
-            drawLiner(graphics, (int)(Math.random() * 321), (int)(Math.random() * 321));
+            drawLiner(graphics, (int)(Math.random() * WIDTH), (int)(Math.random() * HEIGHT));
         }
     }
         public static void drawLiner(Graphics graphics, int startingX, int startingY){
