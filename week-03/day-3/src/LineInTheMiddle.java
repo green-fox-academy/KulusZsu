@@ -10,10 +10,10 @@ public class LineInTheMiddle {
         // draw a green vertical line to the canvas' middle.
 
         graphics.setColor(Color.RED);
-        graphics.drawLine(0,160, 320, 160  );
+        graphics.drawLine(0,160, 320, 160 );
 
         graphics.setColor(Color.GREEN);
-        graphics.drawLine( 160, 0, 320, );
+        graphics.drawLine( 160, 0, 160, 320);
     }
 
     // Don't touch the code below
