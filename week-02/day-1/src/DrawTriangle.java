@@ -4,15 +4,14 @@
 // *
 // **
 // ***
-// ****
-//
+// ****//
 // The triangle should have as many lines as the number was
 
 public class DrawTriangle {
 
     public static void main(String[] args) {
 
-        int number = 1;
+        int number = 4;
 
         for (int i = 1; i <= 1; i++) {
             System.out.println("*");
