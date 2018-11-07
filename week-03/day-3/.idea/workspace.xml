@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b650668-948b-4e9d-b402-980fa7036ce8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/LineInTheMiddle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/DrawTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/DrawTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-2/out/production/day-2/PrintAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-2/out/production/day-2/PrintAll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-2/src/PrintAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-2/src/PrintAll.java" afterDir="false" />
-    </list>
+    <list default="true" id="6b650668-948b-4e9d-b402-980fa7036ce8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +78,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="86" />
     <option name="width" value="1238" />
     <option name="height" value="713" />
@@ -114,7 +107,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541582244377" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541582418680" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
@@ -141,15 +134,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541578746262</updated>
-      <workItem from="1541578750318" duration="970000" />
+      <workItem from="1541578750318" duration="1529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="970000" />
+    <option name="totallyTimeSpent" value="1529000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19894099" />

@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="057849e5-c9c8-4ddf-a218-aaa8c9e4842a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-3/src/LineInTheMiddle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-1/src/DrawTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-1/src/DrawTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-2/out/production/day-2/PrintAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-2/out/production/day-2/PrintAll.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-02/day-2/src/PrintAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-2/src/PrintAll.java" afterDir="false" />
-    </list>
+    <list default="true" id="057849e5-c9c8-4ddf-a218-aaa8c9e4842a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
