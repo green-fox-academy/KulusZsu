@@ -11,7 +11,7 @@ public class Diagonals {
 
         graphics.setColor(Color.GREEN);
         graphics.drawLine(0,0, 320, 320);
-        
+
         graphics.setColor(Color.RED);
         graphics.drawLine(320, 0, 0, 320);
 
