@@ -12,7 +12,7 @@ public class Checkerboard {
         WIDTH = HEIGHT = 320, 1 sqare = (320/8)*(320/8) ==> 40*40, loop 'distance' is 80
          */
 
-        for (int i = 40; i < 320; i += 80){
+       for (int i = 40; i < 320; i += 80){
             for (int j = 0; j < 320; j += 80){
                 graphics.fillRect(j,i - 40,40,40);
             }
