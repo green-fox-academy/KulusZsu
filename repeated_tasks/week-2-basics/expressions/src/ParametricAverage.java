@@ -25,6 +25,6 @@ public class ParametricAverage {
             sum += number;
             avg = sum / 7.;
         }
-        System.out.println("Sum: " + sum + ", Average: " + avg);
+        System.out.println("Sum: " + sum + ", Average: " + sum/avg);
     }
 }
