@@ -8,7 +8,7 @@ public class NumberAdder {
 
   public static int reCursive(int number) {
     if (number < 0) {
-      return 0;
+      return number;
     } else {
       return reCursive(number - 1) + number;
     }
