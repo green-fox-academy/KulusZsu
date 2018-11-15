@@ -15,7 +15,7 @@ public class Bunny2 {
     } else if (bunny % 2 != 0 && bunny != 0) {         // bunny is odd but not zero
       return 2 + ear(bunny - 1);                // add number 2 to the odded bunnies
     } else {
-      return 0;                                       // go back with 0 in any other cases
+      return 0;                                       // stop element
     }
   }
 }
