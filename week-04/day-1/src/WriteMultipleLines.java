@@ -18,19 +18,19 @@ public class WriteMultipleLines {
   public static void main(String[] args) {
 
     String where = "my-bigyo.txt";
-    String word = "cucumber";
+    String word = "tuti";
     int number = 5;
 
     writeM(where, word, number);
   }
 
-  public static void writeM(String Where, String Word, int Number) {
+  public static void writeM(String where, String word, int number) {
     List<String> content = new ArrayList();
-    for (int i = 0; i < Number; i++) {
-      content.add(Word);
+    for (int i = 0; i < number; i++) {
+      content.add(word);
     }
     try {
-      Path path = Paths.get(Where);
+      Path path = Paths.get(where);
       Files.write(path, content);
     } catch (Exception e) {
     }
