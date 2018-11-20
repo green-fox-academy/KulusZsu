@@ -34,6 +34,7 @@ public class Mentor extends Person {
   }
 
   public void intorduce() {
-    return(super.introduce()+ " " + level + " mentor.");
+    super.introduce();
+    System.out.println(" " + level + " mentor.");
   }
 }

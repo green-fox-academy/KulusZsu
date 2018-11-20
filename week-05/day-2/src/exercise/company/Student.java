@@ -35,8 +35,9 @@ public class Student extends Person {
     this.previousOrganization = previousOrganization;
   }
 
-  public String intorduce() {
-    return (super.introduce() + " from" + previousOrganization +
+  public void intorduce() {
+    super.introduce();
+    System.out.println(" from" + previousOrganization +
         " who skipped " + skippedDays + " days from the course already.");
   }
 

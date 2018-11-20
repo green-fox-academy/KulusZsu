@@ -33,8 +33,8 @@ public class Person {
     this.gender = gender;
   }
 
-  public String introduce() {
-    return("Hi, Im " + name + " , a " + age + " year old " + gender + ".");
+  public void introduce() {
+    System.out.println("Hi, Im " + name + " , a " + age + " year old " + gender + ".");
   }
 
   public void getGoal() {

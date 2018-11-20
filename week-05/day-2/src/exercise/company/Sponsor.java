@@ -19,7 +19,7 @@ package exercise.company;
 
 public class Sponsor extends Person {
   String company;
-  String hiredStudents;
+  int hiredStudents;
 
   Sponsor() {
     super();
@@ -33,12 +33,13 @@ public class Sponsor extends Person {
   }
 
   public void intorduce() {
-    return (super.introduce() + " who represents company and hired " + hiredStudents +
+    super.introduce();
+    System.out.println(" who represents company and hired " + hiredStudents +
         " students so far.");
   }
 
-  public void hire(int hireStudents) {
-    hireStudents++;
+  public void hire() {
+    hiredStudents++;
   }
 
   public void getGoal() {
