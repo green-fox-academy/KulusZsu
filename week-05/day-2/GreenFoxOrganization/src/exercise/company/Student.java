@@ -20,7 +20,7 @@ skippedDays to 0
 
 package exercise.company;
 
-public class Student extends Person {
+public class Student extends Person implements Cloneable {
   String previousOrganization;
   int skippedDays;
 
@@ -48,4 +48,9 @@ public class Student extends Person {
   public void skipDays(int numberOfdays) {
     numberOfdays++;
   }
+
+  public Student clone() {
+    return this;
+  }
 }
+

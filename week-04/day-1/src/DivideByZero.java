@@ -10,7 +10,6 @@ public class DivideByZero {
   public static void main(String[] args) {
 
       Scanner scanner = new Scanner(System.in);
-
       System.out.println("Please give me a number!");
 
       int num = scanner.nextInt();

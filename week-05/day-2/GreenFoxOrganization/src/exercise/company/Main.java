@@ -44,5 +44,10 @@ public class Main {
     awesome.addMentor(mentor);
     awesome.addMentor(gandhi);
     awesome.info();
+
+    System.out.println();
+    Student John = new Student("John", 20, "male", "BME");
+    Student johnTheClone = John.clone();
+    System.out.println(johnTheClone.name);
   }
 }
