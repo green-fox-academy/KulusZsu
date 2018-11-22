@@ -11,7 +11,7 @@ public class Sum {
     listOfNums.add(null);
   }
 
-  public Sum(int numOfElements) {               //constructor, which in iterating all the elements and give them backa
+  public Sum(int numOfElements) {                 //constructor, which in iterating all the elements and give them backa
     for (int i = 0; i < numOfElements; i++) {
       this.listOfNums.add(i);
     }
