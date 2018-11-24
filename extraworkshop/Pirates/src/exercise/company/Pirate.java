@@ -4,6 +4,7 @@ public class Pirate extends People implements Fightable {
 
   int drinksHad;                  //class alapvető jellemzője, minden egyes származtatásnak lesz ilyenje
   String pet = "";                //azért nem String pet; mert később lekérsnél könyebb kiratni (nem dob exceptiont)
+  boolean isCaptain = false;
 
   Pirate() {
     this.isAlive = true;          //super-ből örökölte ezeket (super a People), itt értéket adtunk nekik
@@ -14,9 +15,6 @@ public class Pirate extends People implements Fightable {
   }
 
   public void drinkSomeRun() {
-    if (!this.isAlive) {
-      System.out.println("He's dead!");
-    }
     this.drinksHad++;
   }
 
