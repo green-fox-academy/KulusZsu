@@ -4,6 +4,8 @@ import java.util.ArrayList;
 
 public class Sum {
 
+  // NOT FINISHED YET !!!!!!!!!!!!!!!!!
+
   ArrayList<Integer> listOfNums;
 
   public Sum() {
