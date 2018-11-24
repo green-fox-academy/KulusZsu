@@ -56,5 +56,43 @@ public class Ship {
     returnText += "The ship has " + crewAlive() + " alive crew members." + System.lineSeparator();
     return returnText;
   }
-}
+
+  /*
+  Ships should have a method to battle other ships: ship.battle(otherShip)
+  should return true if the actual ship (this) wins
+  the ship should win if its calculated score is higher
+  calculate score: Number of Alive pirates in the crew - Number of consumed rum by the captain
+  The loser crew has a random number of losses (deaths).
+  The winner captain and crew has a party, including a random number of rum :)
+   */
+
+  public void winnerCelebration() {
+    for (int i = 0; i < shipCrew.size() - 1; i++) {
+      if (shipCrew.get(i).isAlive && shipCrew.get(i).isConscious)
+        shipCrew.get(i).drinksHad += (int) (Math.random() * 6);
+    }
+  }
+
+  public boolean battle(Ship opponent) {
+    int score = crewAlive() - captainsRum() - opponent.crewAlive() + opponent.captainsRum();
+    if (score > 0) {
+      this.winnerCelebration();
+    }
+    for (int i = 0; i < crewAlive() - 1; i++) {
+      shipCrew.get(i).drinksHad += (int) (Math.random() * 6);
+    }
+    for (int i = 0; i < opponent.crewAlive() - 1; i++) {
+      opponent.shipCrew.get(i).isAlive = Math.random() * 2 >= 1;
+    }
+  } else{
+    for(int i=0;i<opponent.crewAlive()-1;i++){
+    opponent.shipCrew.get(i).drinksHad+=(int)(Math.random()*6);
+    }
+    for(int i=0;i<crewAlive()-1;i++){
+    shipCrew.get(i).isAlive=Math.random()*2>=1;
+    }
+    }
+    return score>0;
+    }
+    }
 
