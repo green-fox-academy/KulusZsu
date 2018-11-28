@@ -5,7 +5,7 @@
 // example: on the input "Avocado" the function should return 2 - print this result
 // example: on the input "Blueberry" the function should return 0 - print this result
 
-public class CountAs {
+public class CountAsTrialExam {
   public static void main(String[] args) {
 
     String one = "Apple";
