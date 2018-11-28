@@ -7,14 +7,9 @@
 
 public class CountAsTrialExam2 {
   public static void main(String[] args) {
-
-    String one = "Apple";
-    String two = "Avocado";
-    String three = "Blueberry";
-
-    System.out.println(occurFunction(one));
-    System.out.println(occurFunction(two));
-    System.out.println(occurFunction(three));
+    System.out.println(occurFunction("Apple"));
+    System.out.println(occurFunction("Avocado"));
+    System.out.println(occurFunction("Blueberry"));
   }
 
   public static int occurFunction(String input) {

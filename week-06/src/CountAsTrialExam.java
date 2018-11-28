@@ -7,14 +7,9 @@
 
 public class CountAsTrialExam {
   public static void main(String[] args) {
-
-    String one = "Apple";
-    String two = "Avocado";
-    String three = "Blueberry";
-
-    System.out.println(counterFunction(one));
-    System.out.println(counterFunction(two));
-    System.out.println(counterFunction(three));
+    System.out.println(counterFunction("Apple"));
+    System.out.println(counterFunction("Avocado"));
+    System.out.println(counterFunction("Blueberry"));
   }
 
   public static int counterFunction(String input) {

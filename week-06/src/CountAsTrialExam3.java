@@ -7,14 +7,9 @@
 
 public class CountAsTrialExam3 {
   public static void main(String[] args) {
-
-    String one = "Apple";
-    String two = "Avocado";
-    String three = "Blueberry";
-
-    System.out.println(occurCounter(one));
-    System.out.println(occurCounter(two));
-    System.out.println(occurCounter(three));
+    System.out.println(occurCounter("Apple"));
+    System.out.println(occurCounter("Avocado"));
+    System.out.println(occurCounter("Blueberry"));
   }
 
   public static int occurCounter(String input) {
