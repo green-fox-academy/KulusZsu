@@ -4,7 +4,7 @@
 
 import java.util.ArrayList;
 
-public class SecondsTrialExam3 {
+public class SecondTrialExam3 {
   public static void main(String[] args) {
     ArrayList<Integer> list = new ArrayList<>();
 
