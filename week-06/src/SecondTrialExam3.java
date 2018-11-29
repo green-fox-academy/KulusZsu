@@ -17,8 +17,8 @@ public class SecondTrialExam3 {
     System.out.println(listModifyier(list));
   }
 
-  public static ArrayList listModifyier(ArrayList list) {
-    ArrayList<Integer> modifiedList = new ArrayList<Integer>();
+  public static ArrayList listModifyier(ArrayList<Integer> list) {
+    ArrayList<Integer> modifiedList = new ArrayList();
 
     for (int i = 1; i < list.size(); i++) {
       if (i % 2 == 0) {

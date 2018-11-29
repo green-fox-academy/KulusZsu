@@ -3,6 +3,9 @@
 // It should have a method called `getSurface` that returns the cuboid's surface
 // It should have a method called `getVolume` that returns the cuboid's volume
 
+
+ //  Ez nem jó megoldás, mert nem igazi klassz(nincs konstruktor, stb, ez csak sima metódusíhvás)
+
 public class BoxTrialExam {
 
   public static void main(String[] args) {
