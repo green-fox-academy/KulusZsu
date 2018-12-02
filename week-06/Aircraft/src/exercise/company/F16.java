@@ -1,4 +1,13 @@
 package exercise.company;
 
-public class F16 {
+public class F16 extends Aircraft {
+
+  F16() {
+    super(8, 30);
+  }
+
+  public boolean hasPriority() {
+    return false;
+  }
 }
+

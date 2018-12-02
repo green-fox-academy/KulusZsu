@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e01f88c1-4a3a-4626-ac81-d8e10503846d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/Animal/src/exercise/company/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/Animal/src/exercise/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/BlogPost/src/exercise/company/BlogPost.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/BlogPost/src/exercise/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/Counter/src/exercise/company/Counter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/Counter/src/exercise/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FileOC/src/CountLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FileOC/src/CountLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FileOC/src/DivideByZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FileOC/src/DivideByZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FileOC/src/PrintEachLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FileOC/src/PrintEachLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FileOC/src/WriteMultipleLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FileOC/src/WriteMultipleLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FileOC/src/WriteSingleLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FileOC/src/WriteSingleLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FleetOfThings/src/exercise/company/Fleet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FleetOfThings/src/exercise/company/FleetOfThings.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/FleetOfThings/src/exercise/company/Thing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/Pokemon/src/exercise/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/Pokemon/src/exercise/company/Pokemon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/PostIt/src/exercise/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/PostIt/src/exercise/company/PostIt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/Sharpie/src/exercise/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repeated_tasks/week-4-fileoc/Sharpie/src/exercise/company/Sharpie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-03/day-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week-03/day-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-03/day-2/src/QuoteSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-03/day-2/src/QuoteSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-03/day-3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/week-03/day-3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-03/day-4/src/EnvelopeStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-03/day-4/src/LinePlay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-03/day-4/src/LinePlayQuarters.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-04/day-1/my-file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/week-04/day-1/my-file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-04/day-1/src/DivideByZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-04/day-1/src/DivideByZero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-04/day-4/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/week-04/day-4/src/Strings.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1031214226">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="13" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week-03/day-2/src/SolarSystem.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week-03/day-2/src/TodoPrint.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week-03/day-2/src/UrlFixer.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week-03/day-2/src/AppendLetter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week-04/day-2/PetrolStation/src/exercise/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week-04/day-2/PetrolStation/src/exercise/company/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week-04/day-2/PetrolStation/src/exercise/company/Station.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week-04/day-2/FleetOfThing/src/exercise/company/Fleet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/week-04/day-2/FleetOfThing/src/exercise/company/FleetOfThings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/week-04/day-2/FleetOfThing/src/exercise/company/Thing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="86" />
+    <option name="width" value="1238" />
+    <option name="height" value="713" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="KulusZsu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KulusZsu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KulusZsu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KulusZsu" type="462c0819:PsiDirectoryNode" />
+              <item name="week-04" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KulusZsu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KulusZsu" type="462c0819:PsiDirectoryNode" />
+              <item name="week-04" type="462c0819:PsiDirectoryNode" />
+              <item name="day-2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KulusZsu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KulusZsu" type="462c0819:PsiDirectoryNode" />
+              <item name="week-04" type="462c0819:PsiDirectoryNode" />
+              <item name="day-2" type="462c0819:PsiDirectoryNode" />
+              <item name="FleetOfThing" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KulusZsu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KulusZsu" type="462c0819:PsiDirectoryNode" />
+              <item name="week-04" type="462c0819:PsiDirectoryNode" />
+              <item name="day-2" type="462c0819:PsiDirectoryNode" />
+              <item name="FleetOfThing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KulusZsu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KulusZsu" type="462c0819:PsiDirectoryNode" />
+              <item name="week-04" type="462c0819:PsiDirectoryNode" />
+              <item name="day-2" type="462c0819:PsiDirectoryNode" />
+              <item name="FleetOfThing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="KulusZsu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KulusZsu" type="462c0819:PsiDirectoryNode" />
+              <item name="week-04" type="462c0819:PsiDirectoryNode" />
+              <item name="day-2" type="462c0819:PsiDirectoryNode" />
+              <item name="FleetOfThing" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e01f88c1-4a3a-4626-ac81-d8e10503846d" name="Default Changelist" comment="" />
+      <created>1542637433861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542637433861</updated>
+      <workItem from="1542637435559" duration="1480000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1480000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19894099" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="CheckStyle" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.3371522" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32569557" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/week-02/day-2/src/AppendAFunc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-03/day-2/src/IsInList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-03/day-2/src/SimpleReplace.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-03/day-2/src/SolarSystem.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-03/day-2/src/TodoPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-03/day-2/src/UrlFixer.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-03/day-2/src/AppendLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-04/day-2/PetrolStation/src/exercise/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-04/day-2/PetrolStation/src/exercise/company/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-04/day-2/PetrolStation/src/exercise/company/Station.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-04/day-2/FleetOfThing/src/exercise/company/Thing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-04/day-2/FleetOfThing/src/exercise/company/Fleet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week-04/day-2/FleetOfThing/src/exercise/company/FleetOfThings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

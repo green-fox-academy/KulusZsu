@@ -2,36 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29d419a1-7952-4250-8a1a-2f8bb53d3b8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlogPost/BlogPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlogPost/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlogPostExtended/Blog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlogPostExtended/BlogPostExtended.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BlogPostExtended/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Counter/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Counter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiceSet/DiceSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FleetOfThings/Fleet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FleetOfThings/FleetOfThings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FleetOfThings/Thing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PetrolStation/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PetrolStation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PetrolStation/Station.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pokemon/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pokemon/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PostIt/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PostIt/PostIt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sharpie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Sharpie/Sharpie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeacherStudent/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeacherStudent/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TeacherStudent/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/Aircraft.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/Carrier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/F16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/F35.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/Aircraft.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/Aircraft.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/Carrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/Carrier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/F16.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/F16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/F35.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-06/Aircraft/src/exercise/company/F35.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,6 +26,7 @@
     <session id="1803818082">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -175,7 +151,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543686945327" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543687062379" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -282,12 +258,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543660520885</updated>
-      <workItem from="1543660524850" duration="21266000" />
+      <workItem from="1543660524850" duration="21467000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21266000" />
+    <option name="totallyTimeSpent" value="21467000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -302,7 +278,7 @@
       <window_info anchor="bottom" id="CheckStyle" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3371522" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3371522" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
