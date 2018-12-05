@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29d419a1-7952-4250-8a1a-2f8bb53d3b8c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HeWillNever.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MatricesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookstore/Books.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookstore/Bookstore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookstore/HardCover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookstore/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookstore/PaperBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bookstoretry.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/untitled104/BlogPostExtended/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled104/BlogPostExtended/Main.class" afterDir="false" />
-    </list>
+    <list default="true" id="29d419a1-7952-4250-8a1a-2f8bb53d3b8c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,15 +20,16 @@
     <session id="1803818082">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.43" value="1" />
           <entry key="project.open.time.44" value="1" />
           <entry key="project.open.time.59" value="1" />
           <entry key="project.open.time.64" value="1" />
           <entry key="project.open.time.90" value="1" />
           <entry key="project.open.time.92" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -68,7 +55,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,7 +142,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,6 +159,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -290,6 +277,7 @@
       <workItem from="1543835426929" duration="6524000" />
       <workItem from="1543940694950" duration="1952000" />
       <workItem from="1543955656075" duration="4824000" />
+      <workItem from="1544001324882" duration="1039000" />
     </task>
     <servers />
   </component>
@@ -302,12 +290,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47640000" />
+    <option name="totallyTimeSpent" value="48679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21709532" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22012103" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,9 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -575,52 +560,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore_try/PaperCovered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#63#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#693#694#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore_try/HardCovered.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="84" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="84" />
-          <folding>
-            <element signature="e#0#62#0" expanded="true" />
-            <element signature="e#537#538#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore_try/Bookshelf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-          <folding>
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/bookstore_try/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-          <folding>
-            <element signature="e#0#1103#0" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/bookstore_try/PaperCovered.java" />
+    <entry file="file://$PROJECT_DIR$/src/bookstore_try/HardCovered.java" />
+    <entry file="file://$PROJECT_DIR$/src/bookstore_try/Bookshelf.java" />
+    <entry file="file://$PROJECT_DIR$/src/bookstore_try/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/bookstore/HardCover.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -632,13 +575,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#263#264#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -656,13 +592,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bookstore.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bookstore.java" />
     <entry file="file://$PROJECT_DIR$/src/bookstore/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
