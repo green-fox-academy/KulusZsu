@@ -9,6 +9,6 @@ public class HelloUserRESTApp {
 
   @RequestMapping(value = "/greeting")
   public Greeting greeting(@RequestParam String name) {
-    return new Greeting("Hello" + name);
+    return new Greeting("Hello " + name);
   }
 }
