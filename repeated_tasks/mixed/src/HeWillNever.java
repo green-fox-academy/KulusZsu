@@ -1,3 +1,7 @@
+// Things are a little bit messed up
+// Your job is to decode the notSoCrypticMessage by using the hashmap as a look up table
+// Assemble the fragments into the out variable
+
 import java.util.*;
 
 public class HeWillNever {
@@ -15,10 +19,6 @@ public class HeWillNever {
     map.put(1, "Never gonna ");
     map.put(11, "\n");
     map.put(3, "say goodbye ");
-
-    // Things are a little bit messed up
-    // Your job is to decode the notSoCrypticMessage by using the hashmap as a look up table
-    // Assemble the fragments into the out variable
 
     for (int i = 0; i < notSoCrypticMessage.length; i++) {
       out += map.get(notSoCrypticMessage[i]);

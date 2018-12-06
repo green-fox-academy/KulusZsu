@@ -3,6 +3,7 @@
 public class NumberAdder {
 
   public static void main(String[] args) {
+
     System.out.println(reCursive(5));
   }
 

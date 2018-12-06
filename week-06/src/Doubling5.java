@@ -9,6 +9,7 @@ public class Doubling5 {
   }
 
   public static int doubling(int baseNum) {
+
     return 2 * baseNum;
   }
 }
