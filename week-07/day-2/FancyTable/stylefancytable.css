@@ -3,18 +3,22 @@ body {
   font-size: 20px;
   font-family:  'Lucida Sans Unicode';
   color: dimgrey;
-  background-color: blue;
+  background-color: cornflowerblue;
+  margin: 320px;
+}
+
+.thead {
+  background-color: black;
+  color: bisque;
+}
+
+th {
+  height: 80px;
 }
 
 table {
   width: 700px;
   height: 300px;
-}
-
-
-.thead {
-  background-color: black;
-  color: bisque;
 }
 
 td {
