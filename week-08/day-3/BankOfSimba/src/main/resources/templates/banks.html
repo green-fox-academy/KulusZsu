@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Banks</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+
+<div>
+    <div th:each="bank, stat : ${banks}" >
+
+        <h1 th:text="${stat.count} + '. '+ ${bank.name} + ' - ' +
+        ${#numbers.formatDecimal(bank.balance, 3, 2, 'POINT')} + ' Zebra' + ' (' + ${bank.animalType} + ') '"
+            th:if="${bank.isKing()}" style="color: goldenrod"
+             ></h1>
+    </div>
+</div>
+
+</body>
+</html>
+
