@@ -7,12 +7,11 @@
 <body>
 
 <div>
-    <div th:each="bank, stat : ${banks}" >
-
-        <h1 th:text="${stat.count} + '. '+ ${bank.name} + ' - ' +
-        ${#numbers.formatDecimal(bank.balance, 3, 2, 'POINT')} + ' Zebra' + ' (' + ${bank.animalType} + ') '"
-            th:if="${bank.isKing()}" style="color: goldenrod"
-             ></h1>
+    <div th:each="bank, stat: ${banks}" >
+        <h1 th:text="${stat.count} + '. ' + ${bank.name} + ' - ' +
+        ${#numbers.formatDecimal(bank.balance, 3, 2, 'POINT')} +
+         ' Zebra' + ' (' + ${bank.animalType} + ') '"
+        ></h1>
     </div>
 </div>
 
