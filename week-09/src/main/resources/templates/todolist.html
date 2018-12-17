@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>todolist</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+<h1>Todos for today</h1>
+<ul th:each= "list : ${todos}" >
+    <li th:text = "${list.title}" ></li>
+</ul>
+</body>
+</html>
